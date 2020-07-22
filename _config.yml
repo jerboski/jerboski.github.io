@@ -1,11 +1,11 @@
 # Site settings
 author: Jeremy Snelson
-title: 
+title: Why Data Science
 header-img: img/home-bg.png
 email: jeremy_snelson@dpsk12.org
 copyright_name: Jeremy Snelson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog 1
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jerboski
